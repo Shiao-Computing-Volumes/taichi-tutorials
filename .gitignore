@@ -1,0 +1,11 @@
+# editor
+*.swo
+*.swp
+*.swm
+*.swn
+
+# python
+*.pyc
+
+# os
+.DS_Store
